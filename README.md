@@ -1,6 +1,6 @@
-# bmp2mch
-# http://g2f.atari8.info
+# BMP, PNG to MCH (Graph2Font)
 
-Convert BMP, PNG to MCH (Graph2Font)
+"http://g2f.atari8.info"
 
 fpc -MDelphi -vh -O3 bmp2mch.dpr
+
